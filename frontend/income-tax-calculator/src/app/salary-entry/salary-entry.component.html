@@ -1,0 +1,23 @@
+<div class="form-container">
+  <mat-card>
+    <mat-card-header>
+      <mat-card-title>Income Tax Calculator</mat-card-title>
+    </mat-card-header>
+    <mat-card-content>
+      <form class="tax-form" (ngSubmit)="submit()">
+        <mat-form-field appearance="fill">
+          <mat-label>Enter your Gross Annual Salary</mat-label>
+          <input matInput [(ngModel)]="grossSalary" name="grossSalary" type="number" required min="0" pattern="^[0-9]*$" #salary="ngModel">
+          <mat-error *ngIf="salary.invalid && (salary.dirty || salary.touched)">
+            <span *ngIf="salary.errors?.['required']">This field is required.</span>
+            <span *ngIf="salary.errors?.['pattern']">Please enter a valid number.</span>
+            <span *ngIf="salary.errors?.['min']">The salary cannot be negative.</span>
+          </mat-error>
+        </mat-form-field>
+        <div class="actions">
+          <button mat-raised-button color="primary" type="submit">Calculate</button>
+        </div>
+      </form>
+    </mat-card-content>
+  </mat-card>
+</div>

@@ -1,0 +1,5 @@
+<div class="container">
+  <app-salary-entry *ngIf="!calculationResult" (grossSalaryEntered)="onGrossSalaryEntered($event)"></app-salary-entry>
+  <app-results *ngIf="calculationResult" [calculationResult]="calculationResult"></app-results>
+  <button mat-button *ngIf="calculationResult" (click)="calculationResult = null">Back</button>
+</div>

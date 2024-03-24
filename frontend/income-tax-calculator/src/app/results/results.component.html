@@ -1,0 +1,18 @@
+<!-- results.component.html -->
+<ng-container *ngIf="calculationResult; else noResultsTemplate">
+  <mat-card>
+    <mat-card-title>Calculation Results</mat-card-title>
+    <mat-card-content>
+      <p>Gross Annual Salary: {{ calculationResult.grossAnnualSalary | currency }}</p>
+      <p>Net Annual Salary: {{ calculationResult.netAnnualSalary | currency }}</p>
+      <p>Gross Monthly Salary: {{ calculationResult.grossMonthlySalary | currency }}</p>
+      <p>Net Monthly Salary: {{ calculationResult.netMonthlySalary | currency }}</p>
+      <p>Annual Tax Paid: {{ calculationResult.annualTaxPaid | currency }}</p>
+      <p>Monthly Tax Paid: {{ calculationResult.monthlyTaxPaid | currency }}</p>
+    </mat-card-content>
+  </mat-card>
+</ng-container>
+
+<ng-template #noResultsTemplate>
+  <p>No results to display</p>
+</ng-template>

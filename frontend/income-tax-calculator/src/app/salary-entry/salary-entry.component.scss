@@ -1,0 +1,21 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    padding: 2rem;
+  }
+  
+  .tax-form {
+    width: 100%; // or a max-width for larger screens
+  }
+  
+  .mat-card-header {
+    display: flex;
+    justify-content: center;
+    background-color: #eeeeee;
+  }
+  
+  .actions {
+    margin-top: 1rem;
+    display: flex;
+    justify-content: flex-end;
+  }
