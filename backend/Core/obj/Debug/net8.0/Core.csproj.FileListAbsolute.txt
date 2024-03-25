@@ -1,0 +1,6 @@
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.csproj.AssemblyReference.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.AssemblyInfoInputs.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.AssemblyInfo.cs
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.csproj.CoreCompileInputs.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net8.0\Core.sourcelink.json

@@ -1,0 +1,13 @@
+C:\repos\income_tax_calculator\backend\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.deps.json
+C:\repos\income_tax_calculator\backend\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.dll
+C:\repos\income_tax_calculator\backend\Core.Abstractions\bin\Debug\net6.0\Core.Abstractions.pdb
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.AssemblyReference.cache
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfoInputs.cache
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.AssemblyInfo.cs
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.csproj.CoreCompileInputs.cache
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.sourcelink.json
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.dll
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\refint\Core.Abstractions.dll
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\Core.Abstractions.pdb
+C:\repos\income_tax_calculator\backend\Core.Abstractions\obj\Debug\net6.0\ref\Core.Abstractions.dll

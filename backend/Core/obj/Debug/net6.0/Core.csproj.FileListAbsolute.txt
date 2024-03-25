@@ -1,0 +1,16 @@
+C:\repos\income_tax_calculator\backend\Core\bin\Debug\net6.0\Core.deps.json
+C:\repos\income_tax_calculator\backend\Core\bin\Debug\net6.0\Core.dll
+C:\repos\income_tax_calculator\backend\Core\bin\Debug\net6.0\Core.pdb
+C:\repos\income_tax_calculator\backend\Core\bin\Debug\net6.0\Core.Abstractions.dll
+C:\repos\income_tax_calculator\backend\Core\bin\Debug\net6.0\Core.Abstractions.pdb
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.sourcelink.json
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.csproj.Up2Date
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.dll
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\refint\Core.dll
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\Core.pdb
+C:\repos\income_tax_calculator\backend\Core\obj\Debug\net6.0\ref\Core.dll

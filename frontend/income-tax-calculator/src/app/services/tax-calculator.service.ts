@@ -11,7 +11,7 @@ export class TaxCalculatorService {
   constructor(private http: HttpClient) { }
 
   calculateTax(grossSalary: number): Observable<TaxCalculationResult> {
-    const url = 'http://localhost:5000/TaxCalculator/CalculateTax';
+    const url = 'https://localhost:53208/api/TaxCalculation';
     return this.http.post<TaxCalculationResult>(url, { grossSalary });
   }
 }

@@ -1,0 +1,16 @@
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\bin\Debug\net6.0\TaxCalculator.Contract.deps.json
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\bin\Debug\net6.0\TaxCalculator.Contract.dll
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\bin\Debug\net6.0\TaxCalculator.Contract.pdb
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\bin\Debug\net6.0\Core.Abstractions.dll
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\bin\Debug\net6.0\Core.Abstractions.pdb
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.csproj.AssemblyReference.cache
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.AssemblyInfoInputs.cache
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.AssemblyInfo.cs
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.csproj.CoreCompileInputs.cache
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.sourcelink.json
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalcu.64C2AD4C.Up2Date
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.dll
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\refint\TaxCalculator.Contract.dll
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\TaxCalculator.Contract.pdb
+C:\repos\income_tax_calculator\backend\TaxCalculator.Contract\obj\Debug\net6.0\ref\TaxCalculator.Contract.dll

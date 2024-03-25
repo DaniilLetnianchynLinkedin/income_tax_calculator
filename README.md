@@ -20,17 +20,27 @@ Follow these steps to set up and run the project.
 From the root folder, execute the following commands to start the backend API:
 
 ```bash
-cd backend/TaxCalculatorApi
+cd backend/Host.Application
 dotnet dev-certs https --trust
+set ASPNETCORE_ENVIRONMENT=Test # remove this if You want to configure database in Step 3
 dotnet run 
 ```
 
-### Step 2: Run the Backend API
+### Step 2: Run the Frontend Application
 
-From the root folder, execute the following commands to start the backend API:
+From the root folder, execute the following commands to start Angular application:
 
 ```bash
-cd backend/TaxCalculatorApi
-dotnet dev-certs https --trust
-dotnet run
+cd frontend/income-tax-calculator
+ng serve
+```
+
+This will serve the frontend application on http://localhost:4200 navigate to this address from browser.
+
+### [OPTIONAL] Step 3: Configure Database
+
+By default inmemory database used. To change it modify appsettings.json
+
+```json
+"LocalDbConnectionString": "" //Put Your connection string here
 ```

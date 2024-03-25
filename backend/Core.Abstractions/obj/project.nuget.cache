@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Vwa4i0Ehd9AVHC6+JalkFpoLkhAXCmCYwhwlMmxyGuPTWhcF9Nf5pNGzGl2rdXB2aEOzIASKpYejrQ0Y9PKRQ==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Core.Abstractions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Daniil\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
