@@ -44,3 +44,9 @@ By default inmemory database used. To change it modify appsettings.json
 ```json
 "LocalDbConnectionString": "" //Put Your connection string here
 ```
+
+### [OPTIONAL] Step 4: Run unit tests on angular project
+
+```bash
+ng test
+```

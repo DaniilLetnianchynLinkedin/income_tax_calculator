@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\repos\\income_tax_calculator\\backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0E9D6247-2963-4779-BFA4-DF6E2B14C090}|Host.Application\\Host.Application.csproj|c:\\repos\\income_tax_calculator\\backend\\host.application\\host.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E9D6247-2963-4779-BFA4-DF6E2B14C090}|Host.Application\\Host.Application.csproj|solutionrelative:host.application\\host.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3937F0EC-9D86-42BB-839C-E8CAD232D95B}|TaxCalculator.Module\\TaxCalculator.Module.csproj|c:\\repos\\income_tax_calculator\\backend\\taxcalculator.module\\cqs\\taxcalculation\\commands\\handlers\\calculatetaxcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3937F0EC-9D86-42BB-839C-E8CAD232D95B}|TaxCalculator.Module\\TaxCalculator.Module.csproj|solutionrelative:taxcalculator.module\\cqs\\taxcalculation\\commands\\handlers\\calculatetaxcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{0E9D6247-2963-4779-BFA4-DF6E2B14C090}|Host.Application\\Host.Application.csproj|solutionrelative:host.application\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E9D6247-2963-4779-BFA4-DF6E2B14C090}|Host.Application\\Host.Application.csproj|c:\\repos\\income_tax_calculator\\backend\\host.application\\host.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E9D6247-2963-4779-BFA4-DF6E2B14C090}|Host.Application\\Host.Application.csproj|solutionrelative:host.application\\host.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CD030927-52DD-4C2F-B3E5-FFAB23E537FE}|Core\\Core.csproj|c:\\repos\\income_tax_calculator\\backend\\core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{CD030927-52DD-4C2F-B3E5-FFAB23E537FE}|Core\\Core.csproj|solutionrelative:core\\core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -109,24 +109,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TaxCalculationsMappingProfile.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
-              "RelativeToolTip": "TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:13:31.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TaxBandsMappingProfile.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Mapping\\TaxBands\\TaxBandsMappingProfile.cs",
               "RelativeDocumentMoniker": "TaxCalculator.Module\\Mapping\\TaxBands\\TaxBandsMappingProfile.cs",
@@ -134,12 +121,11 @@
               "RelativeToolTip": "TaxCalculator.Module\\Mapping\\TaxBands\\TaxBandsMappingProfile.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:13:27.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T08:13:27.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ServiceBus.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core\\ServiceBus\\ServiceBus.cs",
               "RelativeDocumentMoniker": "Core\\ServiceBus\\ServiceBus.cs",
@@ -147,12 +133,11 @@
               "RelativeToolTip": "Core\\ServiceBus\\ServiceBus.cs",
               "ViewState": "AQIAAEcAAAAAAAAAAAAlwFsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:08:06.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T08:08:06.238Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "GetAllTaxBandsQuery.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetAllTaxBandsQuery.cs",
               "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetAllTaxBandsQuery.cs",
@@ -160,25 +145,24 @@
               "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetAllTaxBandsQuery.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:36.568Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T08:07:36.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CalculateTaxCommandHandler.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\CQS\\TaxCalculation\\Commands\\Handlers\\CalculateTaxCommandHandler.cs",
               "RelativeDocumentMoniker": "TaxCalculator.Module\\CQS\\TaxCalculation\\Commands\\Handlers\\CalculateTaxCommandHandler.cs",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\CQS\\TaxCalculation\\Commands\\Handlers\\CalculateTaxCommandHandler.cs",
               "RelativeToolTip": "TaxCalculator.Module\\CQS\\TaxCalculation\\Commands\\Handlers\\CalculateTaxCommandHandler.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB8AAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T07:42:27.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ServiceCollectionExtensions.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Extensions\\ServiceCollectionExtensions.cs",
               "RelativeDocumentMoniker": "TaxCalculator.Module\\Extensions\\ServiceCollectionExtensions.cs",
@@ -186,169 +170,12 @@
               "RelativeToolTip": "TaxCalculator.Module\\Extensions\\ServiceCollectionExtensions.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAnwBcAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:13:45.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T08:13:45.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CalculateTaxCommand.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:42:17.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Features.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Features.cs",
-              "RelativeDocumentMoniker": "Core.Abstractions\\Features.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Features.cs",
-              "RelativeToolTip": "Core.Abstractions\\Features.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:49:51.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaxCalculationController.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
-              "RelativeToolTip": "TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAAkwB0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:43:04.76Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "GetTaxBandByIdQuery.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:37.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\appsettings.json",
-              "RelativeDocumentMoniker": "Host.Application\\appsettings.json",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\appsettings.json",
-              "RelativeToolTip": "Host.Application\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-25T07:44:19.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UpdateTaxBandCommand.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:33.995Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "DeleteTaxBandCommand.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:30.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateTaxBandCommand.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:29.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OutgoingTaxCalculationDTO.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:20.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IncomingTaxCalculationDTO.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
-              "RelativeToolTip": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:07:20.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TaxBandController.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxBandController.cs",
-              "RelativeDocumentMoniker": "TaxCalculator.Module\\Controllers\\TaxBandController.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxBandController.cs",
-              "RelativeToolTip": "TaxCalculator.Module\\Controllers\\TaxBandController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:45:55.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Startup.cs",
-              "RelativeDocumentMoniker": "Host.Application\\Startup.cs",
-              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Startup.cs",
-              "RelativeToolTip": "Host.Application\\Startup.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAvwFwAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:45:09.14Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Host.Application",
+              "DocumentIndex": 0,
+              "Title": "Host.Application.csproj",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Host.Application.csproj",
               "RelativeDocumentMoniker": "Host.Application\\Host.Application.csproj",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Host.Application.csproj",
@@ -360,6 +187,162 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaxCalculationsMappingProfile.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
+              "RelativeToolTip": "TaxCalculator.Module\\Mapping\\TaxCalculations\\TaxCalculationsMappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:13:31.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculateTaxCommand.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxCalculation\\Commands\\CalculateTaxCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:42:17.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Features.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Features.cs",
+              "RelativeDocumentMoniker": "Core.Abstractions\\Features.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Features.cs",
+              "RelativeToolTip": "Core.Abstractions\\Features.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:49:51.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaxCalculationController.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
+              "RelativeToolTip": "TaxCalculator.Module\\Controllers\\TaxCalculationController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwB0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:43:04.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetTaxBandByIdQuery.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Queries\\GetTaxBandByIdQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:37.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\appsettings.json",
+              "RelativeDocumentMoniker": "Host.Application\\appsettings.json",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\appsettings.json",
+              "RelativeToolTip": "Host.Application\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-25T07:44:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateTaxBandCommand.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\UpdateTaxBandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:33.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteTaxBandCommand.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\DeleteTaxBandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:30.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateTaxBandCommand.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\CQS\\TaxBand\\Commands\\CreateTaxBandCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:29.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OutgoingTaxCalculationDTO.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\OutgoingTaxCalculationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:20.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IncomingTaxCalculationDTO.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
+              "RelativeToolTip": "TaxCalculator.Contract\\DTO\\TaxCalculation\\CalculateTax\\IncomingTaxCalculationDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:07:20.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TaxBandController.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxBandController.cs",
+              "RelativeDocumentMoniker": "TaxCalculator.Module\\Controllers\\TaxBandController.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\Controllers\\TaxBandController.cs",
+              "RelativeToolTip": "TaxCalculator.Module\\Controllers\\TaxBandController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:45:55.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Startup.cs",
+              "RelativeDocumentMoniker": "Host.Application\\Startup.cs",
+              "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Host.Application\\Startup.cs",
+              "RelativeToolTip": "Host.Application\\Startup.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAvwFwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T07:45:09.14Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
               "Title": "ApiControllerBase.cs",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core\\Controllers\\ApiControllerBase.cs",
@@ -368,47 +351,43 @@
               "RelativeToolTip": "Core\\Controllers\\ApiControllerBase.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:45:23.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:45:23.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "TaxCalculator.Contract",
+              "Title": "TaxCalculator.Contract.csproj",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\TaxCalculator.Contract.csproj",
               "RelativeDocumentMoniker": "TaxCalculator.Contract\\TaxCalculator.Contract.csproj",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Contract\\TaxCalculator.Contract.csproj",
               "RelativeToolTip": "TaxCalculator.Contract\\TaxCalculator.Contract.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T07:38:07.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:38:07.512Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Core",
+              "Title": "Core.csproj",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core\\Core.csproj",
               "RelativeDocumentMoniker": "Core\\Core.csproj",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Core\\Core.csproj",
               "RelativeToolTip": "Core\\Core.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T07:32:26.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:32:26.755Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "Core.Abstractions",
+              "Title": "Core.Abstractions.csproj",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Core.Abstractions.csproj",
               "RelativeDocumentMoniker": "Core.Abstractions\\Core.Abstractions.csproj",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\Core.Abstractions\\Core.Abstractions.csproj",
               "RelativeToolTip": "Core.Abstractions\\Core.Abstractions.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T07:36:41.724Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:36:41.724Z"
             },
             {
               "$type": "Document",
@@ -420,21 +399,19 @@
               "RelativeToolTip": "..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.202\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "ViewState": "AQIAACUAAAAAAAAAAAASwDUAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-03-25T07:35:30.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:35:30.508Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "TaxCalculator.Module",
+              "Title": "TaxCalculator.Module.csproj",
               "DocumentMoniker": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\TaxCalculator.Module.csproj",
               "RelativeDocumentMoniker": "TaxCalculator.Module\\TaxCalculator.Module.csproj",
               "ToolTip": "C:\\repos\\income_tax_calculator\\backend\\TaxCalculator.Module\\TaxCalculator.Module.csproj",
               "RelativeToolTip": "TaxCalculator.Module\\TaxCalculator.Module.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T07:32:38.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:32:38.326Z"
             }
           ]
         }

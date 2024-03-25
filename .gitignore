@@ -46,3 +46,15 @@ frontend/income-tax-calculator/.vscode/tasks.json
 frontend/income-tax-calculator/.vscode/extensions.json
 frontend/income-tax-calculator/.vscode/launch.json
 frontend/income-tax-calculator/.vscode/tasks.json
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfo.cs
+backend/Core/obj/Debug/net6.0/Core.AssemblyInfoInputs.cache
+backend/Host.Application/obj/Debug/net6.0/Host.Application.AssemblyInfo.cs
+backend/Host.Application/obj/Debug/net6.0/Host.Application.AssemblyInfoInputs.cache
+backend/TaxCalculator.Contract/obj/Debug/net6.0/TaxCalculator.Contract.AssemblyInfo.cs
+backend/TaxCalculator.Contract/obj/Debug/net6.0/TaxCalculator.Contract.AssemblyInfoInputs.cache
+backend/TaxCalculator.Module/obj/Debug/net6.0/TaxCalculator.Module.AssemblyInfo.cs
+backend/TaxCalculator.Module/obj/Debug/net6.0/TaxCalculator.Module.AssemblyInfoInputs.cache
